@@ -81,11 +81,11 @@ data = {
         {
             "role": "user",
             "content": [
-                {"type": "text", "text": "What's happening in this video?"},
+                {"type": "text", "text": "What’s happening in this video?"},
                 {
                     "type": "video_url",
                     "video_url": {
-                        "url": "https://github.com/sgl-project/sglang-test-files/raw/refs/heads/main/videos/jobs_presenting_ipod.mp4"
+                        "url": "https://github.com/sgl-project/sgl-test-files/raw/refs/heads/main/videos/jobs_presenting_ipod.mp4"
                     },
                 },
             ],

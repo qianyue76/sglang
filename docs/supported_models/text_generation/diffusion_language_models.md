@@ -25,6 +25,7 @@ threshold: 0.95
 # Default: 32, for LLaDA2MoeModelLM
 block_size: 32
 ```
+
 ## Example Client Code Snippet
 
 Just like other supported models, diffusion language models can be used via the REST API or Python client.
